@@ -21,7 +21,7 @@ class MyClient(discord.Client):
         self.test_news_channel_id = self.config['test_news_channel_id']
         self.test_bot_operations_channel_id = self.config['test_operations_channel_id']
         
-        self.authorizedUsers = ['bobrouu','firefly_26','sato.ardens']
+        self.authorizedUsers = ['firefly_26']
         self.testing = self.config["testing"]
         self.news_update_interval = 600
 
