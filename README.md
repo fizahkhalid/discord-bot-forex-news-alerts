@@ -45,7 +45,7 @@ The bot:
 
 ### **1️⃣ Clone the repository**
 ```bash
-git clone https://github.com/fizahkhalid/discord-bot-news-reminder
+git clone https://github.com/fizahkhalid/discord-bot-forex-news-alerts
 cd discord-bot-news-reminder
 ```
 
