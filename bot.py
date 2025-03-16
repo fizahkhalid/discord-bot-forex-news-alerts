@@ -88,8 +88,5 @@ class MyClient(discord.Client):
             await utils.news_updates(self,df,self.botChannel)
             await asyncio.sleep(10)
 
-
-
-
 client = MyClient(intents = discord.Intents.all())
 client.run(client.config['token'])
