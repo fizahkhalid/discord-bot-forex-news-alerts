@@ -1,0 +1,386 @@
+date,time,currency,impact,event,timezone,10min_update_sent
+2025-03-01,13:30,CNY,red,Manufacturing PMI,UTC-12,False
+2025-03-01,13:30,CNY,orange,Non-Manufacturing PMI,UTC-12,False
+2025-03-01,15:15,USD,yellow,FOMC Member Goolsbee Speaks,UTC-12,False
+2025-03-03,09:45,NZD,yellow,Overseas Trade Index q/q,UTC-12,False
+2025-03-03,12:00,AUD,yellow,MI Inflation Gauge m/m,UTC-12,False
+2025-03-03,12:30,AUD,yellow,ANZ Job Advertisements m/m,UTC-12,False
+2025-03-03,12:30,AUD,yellow,Company Operating Profits q/q,UTC-12,False
+2025-03-03,12:30,JPY,yellow,Final Manufacturing PMI,UTC-12,False
+2025-03-03,13:45,CNY,yellow,Caixin Manufacturing PMI,UTC-12,False
+2025-03-03,17:30,AUD,yellow,Commodity Prices y/y,UTC-12,False
+2025-03-03,20:15,EUR,yellow,Spanish Manufacturing PMI,UTC-12,False
+2025-03-03,20:30,CHF,yellow,Manufacturing PMI,UTC-12,False
+2025-03-03,20:45,EUR,yellow,Italian Manufacturing PMI,UTC-12,False
+2025-03-03,20:50,EUR,yellow,French Final Manufacturing PMI,UTC-12,False
+2025-03-03,20:55,EUR,yellow,German Final Manufacturing PMI,UTC-12,False
+2025-03-03,21:00,EUR,yellow,Final Manufacturing PMI,UTC-12,False
+2025-03-03,21:30,GBP,yellow,Final Manufacturing PMI,UTC-12,False
+2025-03-03,21:30,GBP,yellow,M4 Money Supply m/m,UTC-12,False
+2025-03-03,21:30,GBP,yellow,Mortgage Approvals,UTC-12,False
+2025-03-03,21:30,GBP,yellow,Net Lending to Individuals m/m,UTC-12,False
+2025-03-03,22:00,EUR,orange,Core CPI Flash Estimate y/y,UTC-12,False
+2025-03-03,22:00,EUR,orange,CPI Flash Estimate y/y,UTC-12,False
+2025-03-03,02:30,CAD,yellow,Manufacturing PMI,UTC-12,False
+2025-03-03,02:45,USD,orange,Final Manufacturing PMI,UTC-12,False
+2025-03-03,03:00,USD,red,ISM Manufacturing PMI,UTC-12,False
+2025-03-03,03:00,USD,orange,ISM Manufacturing Prices,UTC-12,False
+2025-03-03,03:00,USD,yellow,Construction Spending m/m,UTC-12,False
+2025-03-03,All Day,USD,yellow,Wards Total Vehicle Sales,UTC-12,False
+2025-03-03,05:05,USD,yellow,FOMC Member Musalem Speaks,UTC-12,False
+2025-03-04,07:39,USD,orange,President Trump Speaks,UTC-12,False
+2025-03-04,09:45,NZD,yellow,Building Consents m/m,UTC-12,False
+2025-03-04,11:30,JPY,yellow,Unemployment Rate,UTC-12,False
+2025-03-04,11:50,JPY,yellow,Capital Spending q/y,UTC-12,False
+2025-03-04,11:50,JPY,yellow,Monetary Base y/y,UTC-12,False
+2025-03-04,12:01,GBP,yellow,BRC Shop Price Index y/y,UTC-12,False
+2025-03-04,12:30,AUD,orange,Monetary Policy Meeting Minutes,UTC-12,False
+2025-03-04,12:30,AUD,orange,Retail Sales m/m,UTC-12,False
+2025-03-04,12:30,AUD,yellow,Current Account,UTC-12,False
+2025-03-04,15:35,JPY,yellow,10-y Bond Auction,UTC-12,False
+2025-03-04,17:00,JPY,yellow,Consumer Confidence,UTC-12,False
+2025-03-04,19:45,EUR,yellow,French Gov Budget Balance,UTC-12,False
+2025-03-04,20:00,EUR,yellow,Spanish Unemployment Change,UTC-12,False
+2025-03-04,21:00,EUR,yellow,Italian Monthly Unemployment Rate,UTC-12,False
+2025-03-04,22:00,EUR,yellow,Unemployment Rate,UTC-12,False
+2025-03-04,22:03,GBP,yellow,30-y Bond Auction,UTC-12,False
+2025-03-04,02:32,NZD,yellow,GDT Price Index,UTC-12,False
+2025-03-04,03:06,USD,yellow,RCM/TIPP Economic Optimism,UTC-12,False
+2025-03-05,07:20,USD,yellow,FOMC Member Williams Speaks,UTC-12,False
+2025-03-05,09:45,AUD,yellow,RBA Deputy Gov Hauser Speaks,UTC-12,False
+2025-03-05,12:00,NZD,yellow,ANZ Commodity Prices m/m,UTC-12,False
+2025-03-05,12:30,AUD,red,GDP q/q,UTC-12,False
+2025-03-05,12:30,JPY,orange,BOJ Gov Ueda Speaks,UTC-12,False
+2025-03-05,13:45,CNY,yellow,Caixin Services PMI,UTC-12,False
+2025-03-05,14:10,USD,red,President Trump Speaks,UTC-12,False
+2025-03-05,19:30,CHF,red,CPI m/m,UTC-12,False
+2025-03-05,19:45,EUR,yellow,French Industrial Production m/m,UTC-12,False
+2025-03-05,20:15,EUR,yellow,Spanish Services PMI,UTC-12,False
+2025-03-05,20:45,EUR,yellow,Italian Services PMI,UTC-12,False
+2025-03-05,20:50,EUR,yellow,French Final Services PMI,UTC-12,False
+2025-03-05,20:55,EUR,yellow,German Final Services PMI,UTC-12,False
+2025-03-05,21:00,EUR,yellow,Final Services PMI,UTC-12,False
+2025-03-05,21:30,GBP,yellow,Final Services PMI,UTC-12,False
+2025-03-05,22:00,EUR,yellow,PPI m/m,UTC-12,False
+2025-03-05,22:00,EUR,yellow,Italian Retail Sales m/m,UTC-12,False
+2025-03-05,01:15,USD,red,ADP Non-Farm Employment Change,UTC-12,False
+2025-03-05,01:30,CAD,yellow,Labor Productivity q/q,UTC-12,False
+2025-03-05,02:30,GBP,orange,Monetary Policy Report Hearings,UTC-12,False
+2025-03-05,02:45,USD,orange,Final Services PMI,UTC-12,False
+2025-03-05,03:00,USD,red,ISM Services PMI,UTC-12,False
+2025-03-05,03:00,USD,yellow,Factory Orders m/m,UTC-12,False
+2025-03-05,03:30,USD,yellow,Crude Oil Inventories,UTC-12,False
+2025-03-06,07:00,USD,yellow,Beige Book,UTC-12,False
+2025-03-06,08:30,NZD,orange,RBNZ Gov Orr Speaks,UTC-12,False
+2025-03-06,12:30,AUD,yellow,Building Approvals m/m,UTC-12,False
+2025-03-06,12:30,AUD,yellow,Goods Trade Balance,UTC-12,False
+2025-03-06,15:35,JPY,yellow,30-y Bond Auction,UTC-12,False
+2025-03-06,18:45,CHF,yellow,Unemployment Rate,UTC-12,False
+2025-03-06,21:30,GBP,orange,Construction PMI,UTC-12,False
+2025-03-06,21:40,EUR,yellow,Spanish 10-y Bond Auction,UTC-12,False
+2025-03-06,21:59,EUR,yellow,French 10-y Bond Auction,UTC-12,False
+2025-03-06,22:00,EUR,yellow,Retail Sales m/m,UTC-12,False
+2025-03-06,All Day,EUR,red,Euro Summit,UTC-12,False
+2025-03-06,00:30,USD,yellow,Challenger Job Cuts y/y,UTC-12,False
+2025-03-06,01:15,EUR,red,Main Refinancing Rate,UTC-12,False
+2025-03-06,01:15,EUR,red,Monetary Policy Statement,UTC-12,False
+2025-03-06,01:30,CAD,yellow,Trade Balance,UTC-12,False
+2025-03-06,01:30,USD,red,Unemployment Claims,UTC-12,False
+2025-03-06,01:30,USD,yellow,Revised Nonfarm Productivity q/q,UTC-12,False
+2025-03-06,01:30,USD,yellow,Revised Unit Labor Costs q/q,UTC-12,False
+2025-03-06,01:30,USD,yellow,Trade Balance,UTC-12,False
+2025-03-06,01:45,EUR,red,ECB Press Conference,UTC-12,False
+2025-03-06,01:45,USD,yellow,FOMC Member Harker Speaks,UTC-12,False
+2025-03-06,03:00,CAD,orange,Ivey PMI,UTC-12,False
+2025-03-06,03:00,GBP,yellow,MPC Member Mann Speaks,UTC-12,False
+2025-03-06,03:00,USD,yellow,Final Wholesale Inventories m/m,UTC-12,False
+2025-03-06,03:30,USD,yellow,Natural Gas Storage,UTC-12,False
+2025-03-07,07:39,USD,orange,President Trump Speaks,UTC-12,False
+2025-03-07,08:30,USD,orange,FOMC Member Waller Speaks,UTC-12,False
+2025-03-07,12:00,USD,yellow,FOMC Member Bostic Speaks,UTC-12,False
+2025-03-07,15:02,CNY,yellow,USD-Denominated Trade Balance,UTC-12,False
+2025-03-07,15:03,CNY,yellow,Trade Balance,UTC-12,False
+2025-03-07,19:00,EUR,yellow,German Factory Orders m/m,UTC-12,False
+2025-03-07,19:00,GBP,yellow,Halifax HPI m/m,UTC-12,False
+2025-03-07,19:45,EUR,yellow,French Trade Balance,UTC-12,False
+2025-03-07,20:00,CHF,yellow,Foreign Currency Reserves,UTC-12,False
+2025-03-07,21:30,EUR,orange,ECB President Lagarde Speaks,UTC-12,False
+2025-03-07,22:00,EUR,yellow,Final Employment Change q/q,UTC-12,False
+2025-03-07,22:00,EUR,yellow,Revised GDP q/q,UTC-12,False
+2025-03-07,01:30,CAD,red,Employment Change,UTC-12,False
+2025-03-07,01:30,CAD,red,Unemployment Rate,UTC-12,False
+2025-03-07,01:30,CAD,yellow,Capacity Utilization Rate,UTC-12,False
+2025-03-07,01:30,USD,red,Average Hourly Earnings m/m,UTC-12,False
+2025-03-07,01:30,USD,red,Non-Farm Employment Change,UTC-12,False
+2025-03-07,01:30,USD,red,Unemployment Rate,UTC-12,False
+2025-03-07,03:15,USD,yellow,FOMC Member Bowman Speaks,UTC-12,False
+2025-03-07,03:45,USD,yellow,FOMC Member Williams Speaks,UTC-12,False
+2025-03-07,04:00,USD,orange,President Trump Speaks,UTC-12,False
+2025-03-07,05:20,USD,yellow,FOMC Member Kugler Speaks,UTC-12,False
+2025-03-07,05:30,USD,red,Fed Chair Powell Speaks,UTC-12,False
+2025-03-07,06:00,USD,yellow,FOMC Member Kugler Speaks,UTC-12,False
+2025-03-08,08:00,USD,orange,President Trump Speaks,UTC-12,False
+2025-03-08,08:00,USD,yellow,Consumer Credit m/m,UTC-12,False
+2025-03-09,13:30,CNY,orange,CPI y/y,UTC-12,False
+2025-03-09,13:30,CNY,orange,PPI y/y,UTC-12,False
+2025-03-09,19:00,CAD,gray,Daylight Saving Time Shift,UTC-12,False
+2025-03-09,19:00,USD,gray,Daylight Saving Time Shift,UTC-12,False
+2025-03-10,11:30,JPY,yellow,Average Cash Earnings y/y,UTC-12,False
+2025-03-10,11:50,JPY,yellow,Bank Lending y/y,UTC-12,False
+2025-03-10,11:50,JPY,yellow,Current Account,UTC-12,False
+2025-03-10,17:00,JPY,yellow,Leading Indicators,UTC-12,False
+2025-03-10,18:00,JPY,yellow,Economy Watchers Sentiment,UTC-12,False
+2025-03-10,19:00,EUR,yellow,German Industrial Production m/m,UTC-12,False
+2025-03-10,19:00,EUR,yellow,German Trade Balance,UTC-12,False
+2025-03-10,19:59,CHF,yellow,SECO Consumer Climate,UTC-12,False
+2025-03-10,All Day,EUR,yellow,Eurogroup Meetings,UTC-12,False
+2025-03-10,21:30,EUR,yellow,Sentix Investor Confidence,UTC-12,False
+2025-03-11,09:45,NZD,yellow,Manufacturing Sales q/q,UTC-12,False
+2025-03-11,11:01,AUD,yellow,Westpac Consumer Sentiment,UTC-12,False
+2025-03-11,11:30,JPY,yellow,Household Spending y/y,UTC-12,False
+2025-03-11,11:50,JPY,yellow,Final GDP Price Index y/y,UTC-12,False
+2025-03-11,11:50,JPY,yellow,Final GDP q/q,UTC-12,False
+2025-03-11,11:50,JPY,yellow,M2 Money Stock y/y,UTC-12,False
+2025-03-11,12:01,GBP,yellow,BRC Retail Sales Monitor y/y,UTC-12,False
+2025-03-11,12:30,AUD,yellow,NAB Business Confidence,UTC-12,False
+2025-03-11,17:58,JPY,yellow,Prelim Machine Tool Orders y/y,UTC-12,False
+2025-03-11,All Day,EUR,yellow,ECOFIN Meetings,UTC-12,False
+2025-03-11,22:00,USD,yellow,NFIB Small Business Index,UTC-12,False
+2025-03-11,01:30,GBP,yellow,CB Leading Index m/m,UTC-12,False
+2025-03-11,02:00,USD,red,JOLTS Job Openings,UTC-12,False
+2025-03-12,09:00,USD,orange,President Trump Speaks,UTC-12,False
+2025-03-12,11:50,JPY,yellow,BSI Manufacturing Index,UTC-12,False
+2025-03-12,11:50,JPY,yellow,PPI y/y,UTC-12,False
+2025-03-12,20:45,EUR,orange,ECB President Lagarde Speaks,UTC-12,False
+2025-03-12,22:09,GBP,yellow,10-y Bond Auction,UTC-12,False
+2025-03-12,22:31,EUR,yellow,German 10-y Bond Auction,UTC-12,False
+2025-03-12,00:30,USD,red,Core CPI m/m,UTC-12,False
+2025-03-12,00:30,USD,red,CPI m/m,UTC-12,False
+2025-03-12,00:30,USD,red,CPI y/y,UTC-12,False
+2025-03-12,01:45,CAD,red,BOC Rate Statement,UTC-12,False
+2025-03-12,01:45,CAD,red,Overnight Rate,UTC-12,False
+2025-03-12,01:45,EUR,yellow,German Buba President Nagel Speaks,UTC-12,False
+2025-03-12,02:30,CAD,red,BOC Press Conference,UTC-12,False
+2025-03-12,02:30,USD,yellow,Crude Oil Inventories,UTC-12,False
+2025-03-12,05:01,USD,yellow,10-y Bond Auction,UTC-12,False
+2025-03-12,06:00,USD,yellow,Federal Budget Balance,UTC-12,False
+2025-03-13,09:45,NZD,yellow,Visitor Arrivals m/m,UTC-12,False
+2025-03-13,12:00,AUD,yellow,MI Inflation Expectations,UTC-12,False
+2025-03-13,12:01,GBP,yellow,RICS House Price Balance,UTC-12,False
+2025-03-13,19:30,CHF,yellow,PPI m/m,UTC-12,False
+2025-03-13,21:00,EUR,yellow,Italian Quarterly Unemployment Rate,UTC-12,False
+2025-03-13,22:00,EUR,yellow,Industrial Production m/m,UTC-12,False
+2025-03-13,00:30,CAD,yellow,Building Permits m/m,UTC-12,False
+2025-03-13,00:30,USD,red,Core PPI m/m,UTC-12,False
+2025-03-13,00:30,USD,red,PPI m/m,UTC-12,False
+2025-03-13,00:30,USD,red,Unemployment Claims,UTC-12,False
+2025-03-13,02:30,USD,yellow,Natural Gas Storage,UTC-12,False
+2025-03-13,05:01,USD,yellow,30-y Bond Auction,UTC-12,False
+2025-03-13,05:30,EUR,yellow,German Buba President Nagel Speaks,UTC-12,False
+2025-03-14,09:30,NZD,yellow,BusinessNZ Manufacturing Index,UTC-12,False
+2025-03-14,09:45,NZD,yellow,FPI m/m,UTC-12,False
+2025-03-14,19:00,EUR,yellow,German Final CPI m/m,UTC-12,False
+2025-03-14,19:00,EUR,yellow,German WPI m/m,UTC-12,False
+2025-03-14,19:00,GBP,red,GDP m/m,UTC-12,False
+2025-03-14,19:00,GBP,yellow,Construction Output m/m,UTC-12,False
+2025-03-14,19:00,GBP,yellow,Index of Services 3m/3m,UTC-12,False
+2025-03-14,19:00,GBP,yellow,Industrial Production m/m,UTC-12,False
+2025-03-14,19:00,GBP,yellow,Manufacturing Production m/m,UTC-12,False
+2025-03-14,19:45,EUR,yellow,French Final CPI m/m,UTC-12,False
+2025-03-14,21:00,EUR,yellow,Italian Industrial Production m/m,UTC-12,False
+2025-03-14,21:03,CNY,orange,New Loans,UTC-12,False
+2025-03-14,21:03,CNY,yellow,M2 Money Supply y/y,UTC-12,False
+2025-03-14,21:30,GBP,yellow,Consumer Inflation Expectations,UTC-12,False
+2025-03-14,22:27,GBP,yellow,NIESR GDP Estimate,UTC-12,False
+2025-03-14,00:30,CAD,yellow,Manufacturing Sales m/m,UTC-12,False
+2025-03-14,00:30,CAD,yellow,Wholesale Sales m/m,UTC-12,False
+2025-03-14,02:00,USD,red,Prelim UoM Consumer Sentiment,UTC-12,False
+2025-03-14,02:00,USD,red,Prelim UoM Inflation Expectations,UTC-12,False
+2025-03-15,07:00,USD,orange,President Trump Speaks,UTC-12,False
+2025-03-17,09:30,NZD,yellow,BusinessNZ Services Index,UTC-12,False
+2025-03-17,12:01,GBP,yellow,Rightmove HPI m/m,UTC-12,False
+2025-03-17,13:30,CNY,yellow,New Home Prices m/m,UTC-12,False
+2025-03-17,14:00,CNY,orange,Industrial Production y/y,UTC-12,False
+2025-03-17,14:00,CNY,orange,Retail Sales y/y,UTC-12,False
+2025-03-17,14:00,CNY,yellow,Fixed Asset Investment ytd/y,UTC-12,False
+2025-03-17,14:00,CNY,yellow,NBS Press Conference,UTC-12,False
+2025-03-17,14:00,CNY,yellow,Unemployment Rate,UTC-12,False
+2025-03-17,23:00,EUR,yellow,German Buba Monthly Report,UTC-12,False
+2025-03-17,00:15,CAD,yellow,Housing Starts,UTC-12,False
+2025-03-17,00:30,CAD,yellow,Foreign Securities Purchases,UTC-12,False
+2025-03-17,00:30,USD,red,Core Retail Sales m/m,UTC-12,False
+2025-03-17,00:30,USD,red,Retail Sales m/m,UTC-12,False
+2025-03-17,00:30,USD,orange,Empire State Manufacturing Index,UTC-12,False
+2025-03-17,02:00,USD,yellow,Business Inventories m/m,UTC-12,False
+2025-03-17,02:00,USD,yellow,NAHB Housing Market Index,UTC-12,False
+2025-03-18,11:20,AUD,yellow,RBA Assist Gov Hunter Speaks,UTC-12,False
+2025-03-18,16:30,JPY,yellow,Tertiary Industry Activity m/m,UTC-12,False
+2025-03-18,20:00,CHF,yellow,SECO Economic Forecasts,UTC-12,False
+2025-03-18,21:00,EUR,yellow,Italian Trade Balance,UTC-12,False
+2025-03-18,22:00,EUR,orange,German ZEW Economic Sentiment,UTC-12,False
+2025-03-18,22:00,EUR,yellow,Trade Balance,UTC-12,False
+2025-03-18,22:00,EUR,yellow,ZEW Economic Sentiment,UTC-12,False
+2025-03-18,00:30,CAD,red,CPI m/m,UTC-12,False
+2025-03-18,00:30,CAD,red,Median CPI y/y,UTC-12,False
+2025-03-18,00:30,CAD,red,Trimmed CPI y/y,UTC-12,False
+2025-03-18,00:30,CAD,orange,Common CPI y/y,UTC-12,False
+2025-03-18,00:30,CAD,yellow,Core CPI m/m,UTC-12,False
+2025-03-18,00:30,USD,yellow,Building Permits,UTC-12,False
+2025-03-18,00:30,USD,yellow,Housing Starts,UTC-12,False
+2025-03-18,00:30,USD,yellow,Import Prices m/m,UTC-12,False
+2025-03-18,01:15,USD,yellow,Capacity Utilization Rate,UTC-12,False
+2025-03-18,01:15,USD,yellow,Industrial Production m/m,UTC-12,False
+2025-03-18,02:30,AUD,yellow,CB Leading Index m/m,UTC-12,False
+2025-03-18,Tentative,NZD,yellow,GDT Price Index,UTC-12,False
+2025-03-19,08:00,NZD,yellow,Westpac Consumer Sentiment,UTC-12,False
+2025-03-19,09:45,NZD,yellow,Current Account,UTC-12,False
+2025-03-19,11:30,AUD,yellow,MI Leading Index m/m,UTC-12,False
+2025-03-19,11:50,JPY,yellow,Core Machinery Orders m/m,UTC-12,False
+2025-03-19,11:50,JPY,yellow,Trade Balance,UTC-12,False
+2025-03-19,Tentative,JPY,red,BOJ Policy Rate,UTC-12,False
+2025-03-19,Tentative,JPY,red,Monetary Policy Statement,UTC-12,False
+2025-03-19,16:30,JPY,yellow,Revised Industrial Production m/m,UTC-12,False
+2025-03-19,Tentative,JPY,red,BOJ Press Conference,UTC-12,False
+2025-03-19,Tentative,CNY,yellow,Foreign Direct Investment ytd/y,UTC-12,False
+2025-03-19,Tentative,EUR,yellow,German 30-y Bond Auction,UTC-12,False
+2025-03-19,22:00,EUR,yellow,Final Core CPI y/y,UTC-12,False
+2025-03-19,22:00,EUR,yellow,Final CPI y/y,UTC-12,False
+2025-03-19,02:30,USD,yellow,Crude Oil Inventories,UTC-12,False
+2025-03-19,06:00,USD,red,Federal Funds Rate,UTC-12,False
+2025-03-19,06:00,USD,red,FOMC Economic Projections,UTC-12,False
+2025-03-19,06:00,USD,red,FOMC Statement,UTC-12,False
+2025-03-19,06:30,USD,red,FOMC Press Conference,UTC-12,False
+2025-03-20,08:00,USD,yellow,TIC Long-Term Purchases,UTC-12,False
+2025-03-20,09:45,NZD,red,GDP q/q,UTC-12,False
+2025-03-20,All Day,JPY,gray,Bank Holiday,UTC-12,False
+2025-03-20,12:30,AUD,red,Employment Change,UTC-12,False
+2025-03-20,12:30,AUD,red,Unemployment Rate,UTC-12,False
+2025-03-20,13:00,CNY,orange,1-y Loan Prime Rate,UTC-12,False
+2025-03-20,13:00,CNY,orange,5-y Loan Prime Rate,UTC-12,False
+2025-03-20,19:00,CHF,yellow,Trade Balance,UTC-12,False
+2025-03-20,19:00,EUR,yellow,German PPI m/m,UTC-12,False
+2025-03-20,19:00,GBP,red,Claimant Count Change,UTC-12,False
+2025-03-20,19:00,GBP,orange,Average Earnings Index 3m/y,UTC-12,False
+2025-03-20,19:00,GBP,yellow,Unemployment Rate,UTC-12,False
+2025-03-20,20:30,CHF,red,SNB Monetary Policy Assessment,UTC-12,False
+2025-03-20,20:30,CHF,red,SNB Policy Rate,UTC-12,False
+2025-03-20,21:00,CHF,red,SNB Press Conference,UTC-12,False
+2025-03-20,21:00,EUR,yellow,ECB Economic Bulletin,UTC-12,False
+2025-03-20,Tentative,EUR,yellow,Spanish 10-y Bond Auction,UTC-12,False
+2025-03-20,23:00,GBP,yellow,CBI Industrial Order Expectations,UTC-12,False
+2025-03-20,00:00,GBP,red,Monetary Policy Summary,UTC-12,False
+2025-03-20,00:00,GBP,red,MPC Official Bank Rate Votes,UTC-12,False
+2025-03-20,00:00,GBP,red,Official Bank Rate,UTC-12,False
+2025-03-20,Tentative,GBP,yellow,BOE Inflation Letter,UTC-12,False
+2025-03-20,00:30,CAD,yellow,IPPI m/m,UTC-12,False
+2025-03-20,00:30,CAD,yellow,RMPI m/m,UTC-12,False
+2025-03-20,00:30,GBP,red,BOE Gov Bailey Speaks,UTC-12,False
+2025-03-20,00:30,USD,red,Unemployment Claims,UTC-12,False
+2025-03-20,00:30,USD,orange,Philly Fed Manufacturing Index,UTC-12,False
+2025-03-20,00:30,USD,yellow,Current Account,UTC-12,False
+2025-03-20,02:00,USD,orange,Existing Home Sales,UTC-12,False
+2025-03-20,02:00,USD,yellow,CB Leading Index m/m,UTC-12,False
+2025-03-20,02:30,USD,yellow,Natural Gas Storage,UTC-12,False
+2025-03-20,04:50,CAD,red,BOC Gov Macklem Speaks,UTC-12,False
+2025-03-21,09:45,NZD,yellow,Trade Balance,UTC-12,False
+2025-03-21,11:30,JPY,yellow,National Core CPI y/y,UTC-12,False
+2025-03-21,12:01,GBP,yellow,GfK Consumer Confidence,UTC-12,False
+2025-03-21,14:00,NZD,yellow,Credit Card Spending y/y,UTC-12,False
+2025-03-21,19:00,GBP,yellow,Public Sector Net Borrowing,UTC-12,False
+2025-03-21,21:00,EUR,yellow,Current Account,UTC-12,False
+2025-03-21,00:30,CAD,red,Core Retail Sales m/m,UTC-12,False
+2025-03-21,00:30,CAD,red,Retail Sales m/m,UTC-12,False
+2025-03-21,00:30,CAD,yellow,NHPI m/m,UTC-12,False
+2025-03-21,01:05,USD,yellow,FOMC Member Williams Speaks,UTC-12,False
+2025-03-21,03:00,EUR,yellow,Consumer Confidence,UTC-12,False
+2025-03-24,10:00,AUD,yellow,Flash Manufacturing PMI,UTC-12,False
+2025-03-24,10:00,AUD,yellow,Flash Services PMI,UTC-12,False
+2025-03-24,12:30,JPY,yellow,Flash Manufacturing PMI,UTC-12,False
+2025-03-24,20:15,EUR,red,French Flash Manufacturing PMI,UTC-12,False
+2025-03-24,20:15,EUR,red,French Flash Services PMI,UTC-12,False
+2025-03-24,20:30,EUR,red,German Flash Manufacturing PMI,UTC-12,False
+2025-03-24,20:30,EUR,red,German Flash Services PMI,UTC-12,False
+2025-03-24,21:00,EUR,orange,Flash Manufacturing PMI,UTC-12,False
+2025-03-24,21:00,EUR,orange,Flash Services PMI,UTC-12,False
+2025-03-24,21:30,GBP,red,Flash Manufacturing PMI,UTC-12,False
+2025-03-24,21:30,GBP,red,Flash Services PMI,UTC-12,False
+2025-03-24,Tentative,GBP,yellow,BOE Quarterly Bulletin,UTC-12,False
+2025-03-24,01:45,USD,red,Flash Manufacturing PMI,UTC-12,False
+2025-03-24,01:45,USD,red,Flash Services PMI,UTC-12,False
+2025-03-25,11:50,JPY,yellow,Monetary Policy Meeting Minutes,UTC-12,False
+2025-03-25,17:00,JPY,yellow,BOJ Core CPI y/y,UTC-12,False
+2025-03-25,21:00,EUR,orange,German ifo Business Climate,UTC-12,False
+2025-03-25,Tentative,GBP,yellow,30-y Bond Auction,UTC-12,False
+2025-03-25,23:00,GBP,yellow,CBI Realized Sales,UTC-12,False
+2025-03-25,01:00,USD,orange,S&P/CS Composite-20 HPI y/y,UTC-12,False
+2025-03-25,01:00,USD,yellow,HPI m/m,UTC-12,False
+2025-03-25,02:00,EUR,yellow,Belgian NBB Business Climate,UTC-12,False
+2025-03-25,02:00,USD,orange,CB Consumer Confidence,UTC-12,False
+2025-03-25,02:00,USD,orange,New Home Sales,UTC-12,False
+2025-03-25,02:00,USD,orange,Richmond Manufacturing Index,UTC-12,False
+2025-03-26,11:50,JPY,yellow,SPPI y/y,UTC-12,False
+2025-03-26,12:30,AUD,red,CPI y/y,UTC-12,False
+2025-03-26,19:00,GBP,red,CPI y/y,UTC-12,False
+2025-03-26,19:00,GBP,yellow,Core CPI y/y,UTC-12,False
+2025-03-26,19:00,GBP,yellow,PPI Input m/m,UTC-12,False
+2025-03-26,19:00,GBP,yellow,PPI Output m/m,UTC-12,False
+2025-03-26,19:00,GBP,yellow,RPI y/y,UTC-12,False
+2025-03-26,21:00,CHF,yellow,UBS Economic Expectations,UTC-12,False
+2025-03-26,21:30,GBP,yellow,HPI y/y,UTC-12,False
+2025-03-26,Tentative,GBP,red,Annual Budget Release,UTC-12,False
+2025-03-26,00:30,USD,orange,Core Durable Goods Orders m/m,UTC-12,False
+2025-03-26,00:30,USD,orange,Durable Goods Orders m/m,UTC-12,False
+2025-03-26,01:00,CNY,yellow,CB Leading Index m/m,UTC-12,False
+2025-03-26,02:00,CHF,yellow,SNB Quarterly Bulletin,UTC-12,False
+2025-03-26,02:30,USD,yellow,Crude Oil Inventories,UTC-12,False
+2025-03-26,05:30,CAD,yellow,BOC Summary of Deliberations,UTC-12,False
+2025-03-27,19:00,GBP,yellow,Nationwide HPI m/m,UTC-12,False
+2025-03-27,21:00,EUR,yellow,M3 Money Supply y/y,UTC-12,False
+2025-03-27,21:00,EUR,yellow,Private Loans y/y,UTC-12,False
+2025-03-27,Tentative,EUR,yellow,EU Economic Forecasts,UTC-12,False
+2025-03-27,All Day,EUR,yellow,Italian 10-y Bond Auction,UTC-12,False
+2025-03-27,00:30,USD,red,Unemployment Claims,UTC-12,False
+2025-03-27,00:30,USD,yellow,Goods Trade Balance,UTC-12,False
+2025-03-27,00:30,USD,yellow,Prelim Wholesale Inventories m/m,UTC-12,False
+2025-03-27,02:00,USD,orange,Pending Home Sales m/m,UTC-12,False
+2025-03-27,02:30,USD,yellow,Natural Gas Storage,UTC-12,False
+2025-03-28,11:30,JPY,orange,Tokyo Core CPI y/y,UTC-12,False
+2025-03-28,11:50,JPY,yellow,BOJ Summary of Opinions,UTC-12,False
+2025-03-28,19:00,EUR,yellow,German GfK Consumer Climate,UTC-12,False
+2025-03-28,19:00,GBP,red,Retail Sales m/m,UTC-12,False
+2025-03-28,19:00,GBP,yellow,Current Account,UTC-12,False
+2025-03-28,19:00,GBP,yellow,Final GDP q/q,UTC-12,False
+2025-03-28,19:00,GBP,yellow,Goods Trade Balance,UTC-12,False
+2025-03-28,19:00,GBP,yellow,Revised Business Investment q/q,UTC-12,False
+2025-03-28,19:45,EUR,yellow,French Consumer Spending m/m,UTC-12,False
+2025-03-28,19:45,EUR,yellow,French Prelim CPI m/m,UTC-12,False
+2025-03-28,20:00,CHF,yellow,KOF Economic Barometer,UTC-12,False
+2025-03-28,20:00,EUR,orange,Spanish Flash CPI y/y,UTC-12,False
+2025-03-28,20:55,EUR,yellow,German Unemployment Change,UTC-12,False
+2025-03-28,00:30,CAD,red,GDP m/m,UTC-12,False
+2025-03-28,00:30,USD,red,Core PCE Price Index m/m,UTC-12,False
+2025-03-28,00:30,USD,red,Final GDP q/q,UTC-12,False
+2025-03-28,00:30,USD,orange,Final GDP Price Index q/q,UTC-12,False
+2025-03-28,00:30,USD,yellow,Personal Income m/m,UTC-12,False
+2025-03-28,00:30,USD,yellow,Personal Spending m/m,UTC-12,False
+2025-03-28,02:00,USD,orange,Revised UoM Consumer Sentiment,UTC-12,False
+2025-03-28,02:00,USD,yellow,Revised UoM Inflation Expectations,UTC-12,False
+2025-03-30,13:00,CHF,gray,Daylight Saving Time Shift,UTC-12,False
+2025-03-30,13:00,EUR,gray,Daylight Saving Time Shift,UTC-12,False
+2025-03-30,13:00,GBP,gray,Daylight Saving Time Shift,UTC-12,False
+2025-03-31,11:50,JPY,yellow,Prelim Industrial Production m/m,UTC-12,False
+2025-03-31,11:50,JPY,yellow,Retail Sales y/y,UTC-12,False
+2025-03-31,12:00,AUD,yellow,MI Inflation Gauge m/m,UTC-12,False
+2025-03-31,12:00,NZD,yellow,ANZ Business Confidence,UTC-12,False
+2025-03-31,12:30,AUD,yellow,Private Sector Credit m/m,UTC-12,False
+2025-03-31,13:30,CNY,red,Manufacturing PMI,UTC-12,False
+2025-03-31,13:30,CNY,orange,Non-Manufacturing PMI,UTC-12,False
+2025-03-31,17:00,JPY,yellow,Housing Starts y/y,UTC-12,False
+2025-03-31,18:00,EUR,yellow,German Import Prices m/m,UTC-12,False
+2025-03-31,18:00,EUR,yellow,German Retail Sales m/m,UTC-12,False
+2025-03-31,18:29,EUR,red,German Prelim CPI m/m,UTC-12,False
+2025-03-31,20:30,GBP,yellow,M4 Money Supply m/m,UTC-12,False
+2025-03-31,20:30,GBP,yellow,Mortgage Approvals,UTC-12,False
+2025-03-31,20:30,GBP,yellow,Net Lending to Individuals m/m,UTC-12,False
+2025-03-31,21:00,EUR,yellow,Italian Prelim CPI m/m,UTC-12,False
+2025-03-31,01:45,USD,orange,Chicago PMI,UTC-12,False

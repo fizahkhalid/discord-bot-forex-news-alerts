@@ -1,0 +1,386 @@
+date,time,currency,impact,event
+Mar 1,6:30am,CNY,red,Manufacturing PMI
+Mar 1,6:30am,CNY,orange,Non-Manufacturing PMI
+Mar 1,8:15am,USD,yellow,FOMC Member Goolsbee Speaks
+Mar 3,2:45am,NZD,yellow,Overseas Trade Index q/q
+Mar 3,5:00am,AUD,yellow,MI Inflation Gauge m/m
+Mar 3,5:30am,AUD,yellow,ANZ Job Advertisements m/m
+Mar 3,5:30am,AUD,yellow,Company Operating Profits q/q
+Mar 3,5:30am,JPY,yellow,Final Manufacturing PMI
+Mar 3,6:45am,CNY,yellow,Caixin Manufacturing PMI
+Mar 3,10:30am,AUD,yellow,Commodity Prices y/y
+Mar 3,1:15pm,EUR,yellow,Spanish Manufacturing PMI
+Mar 3,1:30pm,CHF,yellow,Manufacturing PMI
+Mar 3,1:45pm,EUR,yellow,Italian Manufacturing PMI
+Mar 3,1:50pm,EUR,yellow,French Final Manufacturing PMI
+Mar 3,1:55pm,EUR,yellow,German Final Manufacturing PMI
+Mar 3,2:00pm,EUR,yellow,Final Manufacturing PMI
+Mar 3,2:30pm,GBP,yellow,Final Manufacturing PMI
+Mar 3,2:30pm,GBP,yellow,M4 Money Supply m/m
+Mar 3,2:30pm,GBP,yellow,Mortgage Approvals
+Mar 3,2:30pm,GBP,yellow,Net Lending to Individuals m/m
+Mar 3,3:00pm,EUR,orange,Core CPI Flash Estimate y/y
+Mar 3,3:00pm,EUR,orange,CPI Flash Estimate y/y
+Mar 3,7:30pm,CAD,yellow,Manufacturing PMI
+Mar 3,7:45pm,USD,orange,Final Manufacturing PMI
+Mar 3,8:00pm,USD,red,ISM Manufacturing PMI
+Mar 3,8:00pm,USD,orange,ISM Manufacturing Prices
+Mar 3,8:00pm,USD,yellow,Construction Spending m/m
+Mar 3,All Day,USD,yellow,Wards Total Vehicle Sales
+Mar 3,10:05pm,USD,yellow,FOMC Member Musalem Speaks
+Mar 4,12:39am,USD,orange,President Trump Speaks
+Mar 4,2:45am,NZD,yellow,Building Consents m/m
+Mar 4,4:30am,JPY,yellow,Unemployment Rate
+Mar 4,4:50am,JPY,yellow,Capital Spending q/y
+Mar 4,4:50am,JPY,yellow,Monetary Base y/y
+Mar 4,5:01am,GBP,yellow,BRC Shop Price Index y/y
+Mar 4,5:30am,AUD,orange,Monetary Policy Meeting Minutes
+Mar 4,5:30am,AUD,orange,Retail Sales m/m
+Mar 4,5:30am,AUD,yellow,Current Account
+Mar 4,8:35am,JPY,yellow,10-y Bond Auction
+Mar 4,10:00am,JPY,yellow,Consumer Confidence
+Mar 4,12:45pm,EUR,yellow,French Gov Budget Balance
+Mar 4,1:00pm,EUR,yellow,Spanish Unemployment Change
+Mar 4,2:00pm,EUR,yellow,Italian Monthly Unemployment Rate
+Mar 4,3:00pm,EUR,yellow,Unemployment Rate
+Mar 4,3:03pm,GBP,yellow,30-y Bond Auction
+Mar 4,7:32pm,NZD,yellow,GDT Price Index
+Mar 4,8:06pm,USD,yellow,RCM/TIPP Economic Optimism
+Mar 5,12:20am,USD,yellow,FOMC Member Williams Speaks
+Mar 5,2:45am,AUD,yellow,RBA Deputy Gov Hauser Speaks
+Mar 5,5:00am,NZD,yellow,ANZ Commodity Prices m/m
+Mar 5,5:30am,AUD,red,GDP q/q
+Mar 5,5:30am,JPY,orange,BOJ Gov Ueda Speaks
+Mar 5,6:45am,CNY,yellow,Caixin Services PMI
+Mar 5,7:10am,USD,red,President Trump Speaks
+Mar 5,12:30pm,CHF,red,CPI m/m
+Mar 5,12:45pm,EUR,yellow,French Industrial Production m/m
+Mar 5,1:15pm,EUR,yellow,Spanish Services PMI
+Mar 5,1:45pm,EUR,yellow,Italian Services PMI
+Mar 5,1:50pm,EUR,yellow,French Final Services PMI
+Mar 5,1:55pm,EUR,yellow,German Final Services PMI
+Mar 5,2:00pm,EUR,yellow,Final Services PMI
+Mar 5,2:30pm,GBP,yellow,Final Services PMI
+Mar 5,3:00pm,EUR,yellow,PPI m/m
+Mar 5,3:00pm,EUR,yellow,Italian Retail Sales m/m
+Mar 5,6:15pm,USD,red,ADP Non-Farm Employment Change
+Mar 5,6:30pm,CAD,yellow,Labor Productivity q/q
+Mar 5,7:30pm,GBP,orange,Monetary Policy Report Hearings
+Mar 5,7:45pm,USD,orange,Final Services PMI
+Mar 5,8:00pm,USD,red,ISM Services PMI
+Mar 5,8:00pm,USD,yellow,Factory Orders m/m
+Mar 5,8:30pm,USD,yellow,Crude Oil Inventories
+Mar 6,12:00am,USD,yellow,Beige Book
+Mar 6,1:30am,NZD,orange,RBNZ Gov Orr Speaks
+Mar 6,5:30am,AUD,yellow,Building Approvals m/m
+Mar 6,5:30am,AUD,yellow,Goods Trade Balance
+Mar 6,8:35am,JPY,yellow,30-y Bond Auction
+Mar 6,11:45am,CHF,yellow,Unemployment Rate
+Mar 6,2:30pm,GBP,orange,Construction PMI
+Mar 6,2:40pm,EUR,yellow,Spanish 10-y Bond Auction
+Mar 6,2:59pm,EUR,yellow,French 10-y Bond Auction
+Mar 6,3:00pm,EUR,yellow,Retail Sales m/m
+Mar 6,All Day,EUR,red,Euro Summit
+Mar 6,5:30pm,USD,yellow,Challenger Job Cuts y/y
+Mar 6,6:15pm,EUR,red,Main Refinancing Rate
+Mar 6,6:15pm,EUR,red,Monetary Policy Statement
+Mar 6,6:30pm,CAD,yellow,Trade Balance
+Mar 6,6:30pm,USD,red,Unemployment Claims
+Mar 6,6:30pm,USD,yellow,Revised Nonfarm Productivity q/q
+Mar 6,6:30pm,USD,yellow,Revised Unit Labor Costs q/q
+Mar 6,6:30pm,USD,yellow,Trade Balance
+Mar 6,6:45pm,EUR,red,ECB Press Conference
+Mar 6,6:45pm,USD,yellow,FOMC Member Harker Speaks
+Mar 6,8:00pm,CAD,orange,Ivey PMI
+Mar 6,8:00pm,GBP,yellow,MPC Member Mann Speaks
+Mar 6,8:00pm,USD,yellow,Final Wholesale Inventories m/m
+Mar 6,8:30pm,USD,yellow,Natural Gas Storage
+Mar 7,12:39am,USD,orange,President Trump Speaks
+Mar 7,1:30am,USD,orange,FOMC Member Waller Speaks
+Mar 7,5:00am,USD,yellow,FOMC Member Bostic Speaks
+Mar 7,8:02am,CNY,yellow,USD-Denominated Trade Balance
+Mar 7,8:03am,CNY,yellow,Trade Balance
+Mar 7,12:00pm,EUR,yellow,German Factory Orders m/m
+Mar 7,12:00pm,GBP,yellow,Halifax HPI m/m
+Mar 7,12:45pm,EUR,yellow,French Trade Balance
+Mar 7,1:00pm,CHF,yellow,Foreign Currency Reserves
+Mar 7,2:30pm,EUR,orange,ECB President Lagarde Speaks
+Mar 7,3:00pm,EUR,yellow,Final Employment Change q/q
+Mar 7,3:00pm,EUR,yellow,Revised GDP q/q
+Mar 7,6:30pm,CAD,red,Employment Change
+Mar 7,6:30pm,CAD,red,Unemployment Rate
+Mar 7,6:30pm,CAD,yellow,Capacity Utilization Rate
+Mar 7,6:30pm,USD,red,Average Hourly Earnings m/m
+Mar 7,6:30pm,USD,red,Non-Farm Employment Change
+Mar 7,6:30pm,USD,red,Unemployment Rate
+Mar 7,8:15pm,USD,yellow,FOMC Member Bowman Speaks
+Mar 7,8:45pm,USD,yellow,FOMC Member Williams Speaks
+Mar 7,9:00pm,USD,orange,President Trump Speaks
+Mar 7,10:20pm,USD,yellow,FOMC Member Kugler Speaks
+Mar 7,10:30pm,USD,red,Fed Chair Powell Speaks
+Mar 7,11:00pm,USD,yellow,FOMC Member Kugler Speaks
+Mar 8,1:00am,USD,orange,President Trump Speaks
+Mar 8,1:00am,USD,yellow,Consumer Credit m/m
+Mar 9,6:30am,CNY,orange,CPI y/y
+Mar 9,6:30am,CNY,orange,PPI y/y
+Mar 9,12:00pm,CAD,gray,Daylight Saving Time Shift
+Mar 9,12:00pm,USD,gray,Daylight Saving Time Shift
+Mar 10,4:30am,JPY,yellow,Average Cash Earnings y/y
+Mar 10,4:50am,JPY,yellow,Bank Lending y/y
+Mar 10,4:50am,JPY,yellow,Current Account
+Mar 10,10:00am,JPY,yellow,Leading Indicators
+Mar 10,11:00am,JPY,yellow,Economy Watchers Sentiment
+Mar 10,12:00pm,EUR,yellow,German Industrial Production m/m
+Mar 10,12:00pm,EUR,yellow,German Trade Balance
+Mar 10,12:59pm,CHF,yellow,SECO Consumer Climate
+Mar 10,All Day,EUR,yellow,Eurogroup Meetings
+Mar 10,2:30pm,EUR,yellow,Sentix Investor Confidence
+Mar 11,2:45am,NZD,yellow,Manufacturing Sales q/q
+Mar 11,4:01am,AUD,yellow,Westpac Consumer Sentiment
+Mar 11,4:30am,JPY,yellow,Household Spending y/y
+Mar 11,4:50am,JPY,yellow,Final GDP Price Index y/y
+Mar 11,4:50am,JPY,yellow,Final GDP q/q
+Mar 11,4:50am,JPY,yellow,M2 Money Stock y/y
+Mar 11,5:01am,GBP,yellow,BRC Retail Sales Monitor y/y
+Mar 11,5:30am,AUD,yellow,NAB Business Confidence
+Mar 11,10:58am,JPY,yellow,Prelim Machine Tool Orders y/y
+Mar 11,All Day,EUR,yellow,ECOFIN Meetings
+Mar 11,3:00pm,USD,yellow,NFIB Small Business Index
+Mar 11,6:30pm,GBP,yellow,CB Leading Index m/m
+Mar 11,7:00pm,USD,red,JOLTS Job Openings
+Mar 12,2:00am,USD,orange,President Trump Speaks
+Mar 12,4:50am,JPY,yellow,BSI Manufacturing Index
+Mar 12,4:50am,JPY,yellow,PPI y/y
+Mar 12,1:45pm,EUR,orange,ECB President Lagarde Speaks
+Mar 12,3:09pm,GBP,yellow,10-y Bond Auction
+Mar 12,3:31pm,EUR,yellow,German 10-y Bond Auction
+Mar 12,5:30pm,USD,red,Core CPI m/m
+Mar 12,5:30pm,USD,red,CPI m/m
+Mar 12,5:30pm,USD,red,CPI y/y
+Mar 12,6:45pm,CAD,red,BOC Rate Statement
+Mar 12,6:45pm,CAD,red,Overnight Rate
+Mar 12,6:45pm,EUR,yellow,German Buba President Nagel Speaks
+Mar 12,7:30pm,CAD,red,BOC Press Conference
+Mar 12,7:30pm,USD,yellow,Crude Oil Inventories
+Mar 12,10:01pm,USD,yellow,10-y Bond Auction
+Mar 12,11:00pm,USD,yellow,Federal Budget Balance
+Mar 13,2:45am,NZD,yellow,Visitor Arrivals m/m
+Mar 13,5:00am,AUD,yellow,MI Inflation Expectations
+Mar 13,5:01am,GBP,yellow,RICS House Price Balance
+Mar 13,12:30pm,CHF,yellow,PPI m/m
+Mar 13,2:00pm,EUR,yellow,Italian Quarterly Unemployment Rate
+Mar 13,3:00pm,EUR,yellow,Industrial Production m/m
+Mar 13,5:30pm,CAD,yellow,Building Permits m/m
+Mar 13,5:30pm,USD,red,Core PPI m/m
+Mar 13,5:30pm,USD,red,PPI m/m
+Mar 13,5:30pm,USD,red,Unemployment Claims
+Mar 13,7:30pm,USD,yellow,Natural Gas Storage
+Mar 13,10:01pm,USD,yellow,30-y Bond Auction
+Mar 13,10:30pm,EUR,yellow,German Buba President Nagel Speaks
+Mar 14,2:30am,NZD,yellow,BusinessNZ Manufacturing Index
+Mar 14,2:45am,NZD,yellow,FPI m/m
+Mar 14,12:00pm,EUR,yellow,German Final CPI m/m
+Mar 14,12:00pm,EUR,yellow,German WPI m/m
+Mar 14,12:00pm,GBP,red,GDP m/m
+Mar 14,12:00pm,GBP,yellow,Construction Output m/m
+Mar 14,12:00pm,GBP,yellow,Index of Services 3m/3m
+Mar 14,12:00pm,GBP,yellow,Industrial Production m/m
+Mar 14,12:00pm,GBP,yellow,Manufacturing Production m/m
+Mar 14,12:45pm,EUR,yellow,French Final CPI m/m
+Mar 14,2:00pm,EUR,yellow,Italian Industrial Production m/m
+Mar 14,2:03pm,CNY,orange,New Loans
+Mar 14,2:03pm,CNY,yellow,M2 Money Supply y/y
+Mar 14,2:30pm,GBP,yellow,Consumer Inflation Expectations
+Mar 14,3:27pm,GBP,yellow,NIESR GDP Estimate
+Mar 14,5:30pm,CAD,yellow,Manufacturing Sales m/m
+Mar 14,5:30pm,CAD,yellow,Wholesale Sales m/m
+Mar 14,7:00pm,USD,red,Prelim UoM Consumer Sentiment
+Mar 14,7:00pm,USD,red,Prelim UoM Inflation Expectations
+Mar 15,12:00am,USD,orange,President Trump Speaks
+Mar 17,2:30am,NZD,yellow,BusinessNZ Services Index
+Mar 17,5:01am,GBP,yellow,Rightmove HPI m/m
+Mar 17,6:30am,CNY,yellow,New Home Prices m/m
+Mar 17,7:00am,CNY,orange,Industrial Production y/y
+Mar 17,7:00am,CNY,orange,Retail Sales y/y
+Mar 17,7:00am,CNY,yellow,Fixed Asset Investment ytd/y
+Mar 17,7:00am,CNY,yellow,NBS Press Conference
+Mar 17,7:00am,CNY,yellow,Unemployment Rate
+Mar 17,4:00pm,EUR,yellow,German Buba Monthly Report
+Mar 17,5:15pm,CAD,yellow,Housing Starts
+Mar 17,5:30pm,CAD,yellow,Foreign Securities Purchases
+Mar 17,5:30pm,USD,red,Core Retail Sales m/m
+Mar 17,5:30pm,USD,red,Retail Sales m/m
+Mar 17,5:30pm,USD,orange,Empire State Manufacturing Index
+Mar 17,7:00pm,USD,yellow,Business Inventories m/m
+Mar 17,7:00pm,USD,yellow,NAHB Housing Market Index
+Mar 18,4:20am,AUD,yellow,RBA Assist Gov Hunter Speaks
+Mar 18,9:30am,JPY,yellow,Tertiary Industry Activity m/m
+Mar 18,1:00pm,CHF,yellow,SECO Economic Forecasts
+Mar 18,2:00pm,EUR,yellow,Italian Trade Balance
+Mar 18,3:00pm,EUR,orange,German ZEW Economic Sentiment
+Mar 18,3:00pm,EUR,yellow,Trade Balance
+Mar 18,3:00pm,EUR,yellow,ZEW Economic Sentiment
+Mar 18,5:30pm,CAD,red,CPI m/m
+Mar 18,5:30pm,CAD,red,Median CPI y/y
+Mar 18,5:30pm,CAD,red,Trimmed CPI y/y
+Mar 18,5:30pm,CAD,orange,Common CPI y/y
+Mar 18,5:30pm,CAD,yellow,Core CPI m/m
+Mar 18,5:30pm,USD,yellow,Building Permits
+Mar 18,5:30pm,USD,yellow,Housing Starts
+Mar 18,5:30pm,USD,yellow,Import Prices m/m
+Mar 18,6:15pm,USD,yellow,Capacity Utilization Rate
+Mar 18,6:15pm,USD,yellow,Industrial Production m/m
+Mar 18,7:30pm,AUD,yellow,CB Leading Index m/m
+Mar 18,Tentative,NZD,yellow,GDT Price Index
+Mar 19,1:00am,NZD,yellow,Westpac Consumer Sentiment
+Mar 19,2:45am,NZD,yellow,Current Account
+Mar 19,4:30am,AUD,yellow,MI Leading Index m/m
+Mar 19,4:50am,JPY,yellow,Core Machinery Orders m/m
+Mar 19,4:50am,JPY,yellow,Trade Balance
+Mar 19,Tentative,JPY,red,BOJ Policy Rate
+Mar 19,Tentative,JPY,red,Monetary Policy Statement
+Mar 19,9:30am,JPY,yellow,Revised Industrial Production m/m
+Mar 19,Tentative,JPY,red,BOJ Press Conference
+Mar 19,Tentative,CNY,yellow,Foreign Direct Investment ytd/y
+Mar 19,Tentative,EUR,yellow,German 30-y Bond Auction
+Mar 19,3:00pm,EUR,yellow,Final Core CPI y/y
+Mar 19,3:00pm,EUR,yellow,Final CPI y/y
+Mar 19,7:30pm,USD,yellow,Crude Oil Inventories
+Mar 19,11:00pm,USD,red,Federal Funds Rate
+Mar 19,11:00pm,USD,red,FOMC Economic Projections
+Mar 19,11:00pm,USD,red,FOMC Statement
+Mar 19,11:30pm,USD,red,FOMC Press Conference
+Mar 20,1:00am,USD,yellow,TIC Long-Term Purchases
+Mar 20,2:45am,NZD,red,GDP q/q
+Mar 20,All Day,JPY,gray,Bank Holiday
+Mar 20,5:30am,AUD,red,Employment Change
+Mar 20,5:30am,AUD,red,Unemployment Rate
+Mar 20,6:00am,CNY,orange,1-y Loan Prime Rate
+Mar 20,6:00am,CNY,orange,5-y Loan Prime Rate
+Mar 20,12:00pm,CHF,yellow,Trade Balance
+Mar 20,12:00pm,EUR,yellow,German PPI m/m
+Mar 20,12:00pm,GBP,red,Claimant Count Change
+Mar 20,12:00pm,GBP,orange,Average Earnings Index 3m/y
+Mar 20,12:00pm,GBP,yellow,Unemployment Rate
+Mar 20,1:30pm,CHF,red,SNB Monetary Policy Assessment
+Mar 20,1:30pm,CHF,red,SNB Policy Rate
+Mar 20,2:00pm,CHF,red,SNB Press Conference
+Mar 20,2:00pm,EUR,yellow,ECB Economic Bulletin
+Mar 20,Tentative,EUR,yellow,Spanish 10-y Bond Auction
+Mar 20,4:00pm,GBP,yellow,CBI Industrial Order Expectations
+Mar 20,5:00pm,GBP,red,Monetary Policy Summary
+Mar 20,5:00pm,GBP,red,MPC Official Bank Rate Votes
+Mar 20,5:00pm,GBP,red,Official Bank Rate
+Mar 20,Tentative,GBP,yellow,BOE Inflation Letter
+Mar 20,5:30pm,CAD,yellow,IPPI m/m
+Mar 20,5:30pm,CAD,yellow,RMPI m/m
+Mar 20,5:30pm,GBP,red,BOE Gov Bailey Speaks
+Mar 20,5:30pm,USD,red,Unemployment Claims
+Mar 20,5:30pm,USD,orange,Philly Fed Manufacturing Index
+Mar 20,5:30pm,USD,yellow,Current Account
+Mar 20,7:00pm,USD,orange,Existing Home Sales
+Mar 20,7:00pm,USD,yellow,CB Leading Index m/m
+Mar 20,7:30pm,USD,yellow,Natural Gas Storage
+Mar 20,9:50pm,CAD,red,BOC Gov Macklem Speaks
+Mar 21,2:45am,NZD,yellow,Trade Balance
+Mar 21,4:30am,JPY,yellow,National Core CPI y/y
+Mar 21,5:01am,GBP,yellow,GfK Consumer Confidence
+Mar 21,7:00am,NZD,yellow,Credit Card Spending y/y
+Mar 21,12:00pm,GBP,yellow,Public Sector Net Borrowing
+Mar 21,2:00pm,EUR,yellow,Current Account
+Mar 21,5:30pm,CAD,red,Core Retail Sales m/m
+Mar 21,5:30pm,CAD,red,Retail Sales m/m
+Mar 21,5:30pm,CAD,yellow,NHPI m/m
+Mar 21,6:05pm,USD,yellow,FOMC Member Williams Speaks
+Mar 21,8:00pm,EUR,yellow,Consumer Confidence
+Mar 24,3:00am,AUD,yellow,Flash Manufacturing PMI
+Mar 24,3:00am,AUD,yellow,Flash Services PMI
+Mar 24,5:30am,JPY,yellow,Flash Manufacturing PMI
+Mar 24,1:15pm,EUR,red,French Flash Manufacturing PMI
+Mar 24,1:15pm,EUR,red,French Flash Services PMI
+Mar 24,1:30pm,EUR,red,German Flash Manufacturing PMI
+Mar 24,1:30pm,EUR,red,German Flash Services PMI
+Mar 24,2:00pm,EUR,orange,Flash Manufacturing PMI
+Mar 24,2:00pm,EUR,orange,Flash Services PMI
+Mar 24,2:30pm,GBP,red,Flash Manufacturing PMI
+Mar 24,2:30pm,GBP,red,Flash Services PMI
+Mar 24,Tentative,GBP,yellow,BOE Quarterly Bulletin
+Mar 24,6:45pm,USD,red,Flash Manufacturing PMI
+Mar 24,6:45pm,USD,red,Flash Services PMI
+Mar 25,4:50am,JPY,yellow,Monetary Policy Meeting Minutes
+Mar 25,10:00am,JPY,yellow,BOJ Core CPI y/y
+Mar 25,2:00pm,EUR,orange,German ifo Business Climate
+Mar 25,Tentative,GBP,yellow,30-y Bond Auction
+Mar 25,4:00pm,GBP,yellow,CBI Realized Sales
+Mar 25,6:00pm,USD,orange,S&P/CS Composite-20 HPI y/y
+Mar 25,6:00pm,USD,yellow,HPI m/m
+Mar 25,7:00pm,EUR,yellow,Belgian NBB Business Climate
+Mar 25,7:00pm,USD,orange,CB Consumer Confidence
+Mar 25,7:00pm,USD,orange,New Home Sales
+Mar 25,7:00pm,USD,orange,Richmond Manufacturing Index
+Mar 26,4:50am,JPY,yellow,SPPI y/y
+Mar 26,5:30am,AUD,red,CPI y/y
+Mar 26,12:00pm,GBP,red,CPI y/y
+Mar 26,12:00pm,GBP,yellow,Core CPI y/y
+Mar 26,12:00pm,GBP,yellow,PPI Input m/m
+Mar 26,12:00pm,GBP,yellow,PPI Output m/m
+Mar 26,12:00pm,GBP,yellow,RPI y/y
+Mar 26,2:00pm,CHF,yellow,UBS Economic Expectations
+Mar 26,2:30pm,GBP,yellow,HPI y/y
+Mar 26,Tentative,GBP,red,Annual Budget Release
+Mar 26,5:30pm,USD,orange,Core Durable Goods Orders m/m
+Mar 26,5:30pm,USD,orange,Durable Goods Orders m/m
+Mar 26,6:00pm,CNY,yellow,CB Leading Index m/m
+Mar 26,7:00pm,CHF,yellow,SNB Quarterly Bulletin
+Mar 26,7:30pm,USD,yellow,Crude Oil Inventories
+Mar 26,10:30pm,CAD,yellow,BOC Summary of Deliberations
+Mar 27,12:00pm,GBP,yellow,Nationwide HPI m/m
+Mar 27,2:00pm,EUR,yellow,M3 Money Supply y/y
+Mar 27,2:00pm,EUR,yellow,Private Loans y/y
+Mar 27,Tentative,EUR,yellow,EU Economic Forecasts
+Mar 27,All Day,EUR,yellow,Italian 10-y Bond Auction
+Mar 27,5:30pm,USD,red,Unemployment Claims
+Mar 27,5:30pm,USD,yellow,Goods Trade Balance
+Mar 27,5:30pm,USD,yellow,Prelim Wholesale Inventories m/m
+Mar 27,7:00pm,USD,orange,Pending Home Sales m/m
+Mar 27,7:30pm,USD,yellow,Natural Gas Storage
+Mar 28,4:30am,JPY,orange,Tokyo Core CPI y/y
+Mar 28,4:50am,JPY,yellow,BOJ Summary of Opinions
+Mar 28,12:00pm,EUR,yellow,German GfK Consumer Climate
+Mar 28,12:00pm,GBP,red,Retail Sales m/m
+Mar 28,12:00pm,GBP,yellow,Current Account
+Mar 28,12:00pm,GBP,yellow,Final GDP q/q
+Mar 28,12:00pm,GBP,yellow,Goods Trade Balance
+Mar 28,12:00pm,GBP,yellow,Revised Business Investment q/q
+Mar 28,12:45pm,EUR,yellow,French Consumer Spending m/m
+Mar 28,12:45pm,EUR,yellow,French Prelim CPI m/m
+Mar 28,1:00pm,CHF,yellow,KOF Economic Barometer
+Mar 28,1:00pm,EUR,orange,Spanish Flash CPI y/y
+Mar 28,1:55pm,EUR,yellow,German Unemployment Change
+Mar 28,5:30pm,CAD,red,GDP m/m
+Mar 28,5:30pm,USD,red,Core PCE Price Index m/m
+Mar 28,5:30pm,USD,red,Final GDP q/q
+Mar 28,5:30pm,USD,orange,Final GDP Price Index q/q
+Mar 28,5:30pm,USD,yellow,Personal Income m/m
+Mar 28,5:30pm,USD,yellow,Personal Spending m/m
+Mar 28,7:00pm,USD,orange,Revised UoM Consumer Sentiment
+Mar 28,7:00pm,USD,yellow,Revised UoM Inflation Expectations
+Mar 30,6:00am,CHF,gray,Daylight Saving Time Shift
+Mar 30,6:00am,EUR,gray,Daylight Saving Time Shift
+Mar 30,6:00am,GBP,gray,Daylight Saving Time Shift
+Mar 31,4:50am,JPY,yellow,Prelim Industrial Production m/m
+Mar 31,4:50am,JPY,yellow,Retail Sales y/y
+Mar 31,5:00am,AUD,yellow,MI Inflation Gauge m/m
+Mar 31,5:00am,NZD,yellow,ANZ Business Confidence
+Mar 31,5:30am,AUD,yellow,Private Sector Credit m/m
+Mar 31,6:30am,CNY,red,Manufacturing PMI
+Mar 31,6:30am,CNY,orange,Non-Manufacturing PMI
+Mar 31,10:00am,JPY,yellow,Housing Starts y/y
+Mar 31,11:00am,EUR,yellow,German Import Prices m/m
+Mar 31,11:00am,EUR,yellow,German Retail Sales m/m
+Mar 31,11:29am,EUR,red,German Prelim CPI m/m
+Mar 31,1:30pm,GBP,yellow,M4 Money Supply m/m
+Mar 31,1:30pm,GBP,yellow,Mortgage Approvals
+Mar 31,1:30pm,GBP,yellow,Net Lending to Individuals m/m
+Mar 31,2:00pm,EUR,yellow,Italian Prelim CPI m/m
+Mar 31,6:45pm,USD,orange,Chicago PMI

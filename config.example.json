@@ -1,0 +1,12 @@
+{
+    "public_key":"public key",
+    "application_id":"client id",
+    "client_id":"client id",
+    "client_secret":"client secret",
+    "token":"token",
+    "news_channel_id": 12345678910111213,
+    "operations_channel_id":12345678910111213,
+    "test_news_channel_id":12345678910111213,
+    "test_operations_channel_id":12345678910111213,
+    "testing":true
+}

@@ -1,0 +1,46 @@
+{
+    "timezone": {
+        "name": "Etc/GMT+12",
+        "offset": "UTC-12"
+    },
+    "timezone_scraped": {
+        "name": "Asia/Yekaterinburg",
+        "offset": "UTC+5"
+    },
+    "daily_update": {
+        "hour": 19,
+        "minute": 7
+    },
+    "time_threshold": 10,
+    "updated": true,
+    "currencies": [],
+    "impacts": [
+        "red",
+        "orange",
+        "grey"
+    ],
+    "all_currencies": [
+        "NZD",
+        "JPY",
+        "GBP",
+        "CNY",
+        "CHF",
+        "AUD",
+        "CAD",
+        "EUR",
+        "GBP",
+        "USD"
+    ],
+    "all_impacts": [
+        "red",
+        "orange",
+        "yellow",
+        "gray"
+    ],
+    "updated_rows": [
+        "[\"2023-10-02\", \"15:00\", \"USD\", \"red\", \"ISM Manufacturing PMI\", \"UTC+1\", false]",
+        "[\"2023-10-02\", \"15:00\", \"USD\", \"orange\", \"ISM Manufacturing Prices\", \"UTC+1\", false]",
+        "[\"2023-10-02\", \"16:00\", \"USD\", \"red\", \"Fed Chair Powell Speaks\", \"UTC+1\", false]",
+        "[\"2023-10-02\", \"16:00\", \"USD\", \"orange\", \"FOMC Member Harker Speaks\", \"UTC+1\", false]"
+    ]
+}
