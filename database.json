@@ -1,19 +1,21 @@
 {
     "timezone": {
-        "name": "Etc/GMT+12",
-        "offset": "UTC-12"
+        "name": "Atlantic/Azores",
+        "offset": "UTC"
     },
     "timezone_scraped": {
-        "name": "Asia/Yekaterinburg",
-        "offset": "UTC+5"
+        "name": "Etc/UTC",
+        "offset": "UTC"
     },
     "daily_update": {
-        "hour": 19,
-        "minute": 7
+        "hour": 1,
+        "minute": 35
     },
     "time_threshold": 10,
     "updated": true,
-    "currencies": [],
+    "currencies": [
+        "USD"
+    ],
     "impacts": [
         "red",
         "orange",
