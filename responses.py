@@ -19,39 +19,55 @@ async def send_qoute(message):
   await message.channel.send(quote)
   return (quote)
 
-async def handle_timezone_message(client,message):
-  select_timezone = "Please select timezone from UTC-12 to UTC+14"
-  await message.channel.send(select_timezone)
+async def handle_timezone_message(client, message):
+    select_timezone = "Please select timezone from UTC-12 to UTC+14"
+    await message.channel.send(select_timezone)
 
-  def check(m):
-    return m.author == message.author and m.channel == message.channel and m.content.strip().startswith('UTC')
-  try:
-    reply = await client.wait_for('message', timeout=60.0, check=check)
+    def check(m):
+        return (
+            m.author == message.author
+            and m.channel == message.channel
+            and m.content.strip().upper().startswith('UTC')
+        )
 
-  except asyncio.TimeoutError:
-    await message.channel.send("Sorry, you took too long to reply.")
-  else:
-    timezone_name, message_for_timezone = find_timezone_name_using_offset(reply.content)
-    if not timezone_name:
-      await set_user_timezone(timezone_name, reply.content,message.channel)
+    try:
+        reply = await client.wait_for('message', timeout=60.0, check=check)
+    except asyncio.TimeoutError:
+        await message.channel.send("Sorry, you took too long to reply.")
     else:
-      await message.channel.send(message_for_timezone)
-
+        timezone_name, msg = find_timezone_name_using_offset(reply.content)
+        if timezone_name:
+            # ✅ On success: save the timezone
+            await set_user_timezone(timezone_name, reply.content, message.channel)
+        else:
+            # On failure: explain why
+            await message.channel.send(msg)
 
 async def state(message):
     database = await get_database()
-    message_str = f"*FILTER*\n"
-    message_str += f"**Currencies:** `{' | '.join(database['currencies'])}`\n"
-    message_str += f"**Impacts:** `{' | '.join(database['impacts'])}`\n\n"
-    message_str += f"*DAILY UPDATES*\n"
-    message_str += f"**Status:** `{database['updated']}`\n"
-    message_str += f"**Time:** `{database['daily_update']['hour']}`:`{database['daily_update']['minute']}`\n\n"
-    
-    message_str += f"*ALERTS*\n"
-    message_str += f"**Time difference for Alerts:** `{database['time_threshold']} minutes`\n"
-    message_str += f"**Timezone Offset:** `{database['timezone']['offset']}`\n"
-    await message.channel.send(message_str)
 
+    currencies = ' | '.join(database.get('currencies', [])) or '—'
+    impacts = ' | '.join(database.get('impacts', [])) or '—'
+    hour = str(database['daily_update'].get('hour', '00')).zfill(2)
+    minute = str(database['daily_update'].get('minute', '00')).zfill(2)
+    time_str = f"{hour}:{minute}"
+    threshold = database.get('time_threshold', 10)
+    tz_offset = database.get('timezone', {}).get('offset', 'UTC+0')
+
+    # Keep italics for section headers, but avoid mixing with code on same line.
+    message_str = (
+        "*FILTER*\n"
+        f"**Currencies:** `{currencies}`\n"
+        f"**Impacts:** `{impacts}`\n\n"
+        "*DAILY UPDATES*\n"
+        f"**Status:** `{database.get('updated', False)}`\n"
+        f"**Time:** `{time_str}`\n\n"
+        "*ALERTS*\n"
+        f"**Time difference for Alerts:** `{threshold} minutes`\n"
+        f"**Timezone Offset:** `{tz_offset}`"
+    )
+
+    await message.channel.send(message_str)
 
 async def handle_datetime_command(message):
     existing_data = await get_database()
